@@ -27,3 +27,7 @@ void main()
   while(sum<100)
 }
 ```
+
+- [x] watch ne zha.
+- [x] watch china town detective 1900.
+- [x] read computer network.
